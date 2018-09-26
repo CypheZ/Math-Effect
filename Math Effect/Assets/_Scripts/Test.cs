@@ -6,7 +6,7 @@ public class Test : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+		print("poop");
 	}
 	
 	// Update is called once per frame
